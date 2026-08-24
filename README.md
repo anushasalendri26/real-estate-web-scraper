@@ -1,6 +1,6 @@
 # Real Estate Web Scraper
 
-##GROWFINIX TASK 1
+GROWFINIX TASK 1
 
 This project is a Python-based web scraper that extracts publicly available real estate property information from websites.
 
